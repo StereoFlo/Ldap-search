@@ -1,7 +1,8 @@
 <?php 
 
 /**
-* The class for auth with an active directory services.
+* The class for auth with an active directory services. 
+* 
 */
 
 class Ldap {
