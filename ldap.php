@@ -120,6 +120,7 @@ class Ldap {
 	* 
 	* @return
 	*/
+	
     public function close($connection)
     {
 		ldap_close($connection);
