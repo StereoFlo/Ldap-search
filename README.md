@@ -1,1 +1,1 @@
-Library to search into Active Directory
+Library to search into the MS Active Directory
